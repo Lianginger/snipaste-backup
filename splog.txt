@@ -1,0 +1,109 @@
+[2021-07-02 23:05:22.015] [I] Snipper: shown
+[2021-07-02 23:05:22.017] [I] Snipper: focus in
+[2021-07-02 23:05:22.017] [I] Snipper: ready [0.1 s]
+[2021-07-02 23:05:25.850] [I] Screenshot destination: pin, 
+[2021-07-02 23:05:25.852] [I] Paste image: QPoint(258, 198)
+[2021-07-02 23:05:25.862] [I] Screenshot successfully saved: pin, 
+[2021-07-02 23:05:25.862] [I] Snipper: about to quit...
+[2021-07-02 23:05:26.248] [I] Snipper: focus out [3]
+[2021-07-02 23:05:26.249] [I] Snipper: hidden
+[2021-07-02 23:05:26.252] [I] Snipper: quit
+[2021-07-02 23:05:26.689] [I] Snipper: scene saved
+[2021-07-02 23:06:09.869] [I] Parsing command arguments [1]: (sp, snip)
+[2021-07-02 23:06:09.869] [I] Snip request: 0 (dest: 0)
+[2021-07-02 23:06:09.869] [I] Snipper: preparing...
+[2021-07-02 23:06:09.929] [I] Screens: 1
+[2021-07-02 23:06:09.929] [I]     QRect(0, 0, 1920 x 1080), DPI = 144 , DPR = 1
+[2021-07-02 23:06:09.929] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2021-07-02 23:06:09.929] [I] Background size: QSize(1920, 1080)
+[2021-07-02 23:06:09.939] [I] Focus set
+[2021-07-02 23:06:09.940] [I] Snipper: preparation done (0)
+[2021-07-02 23:06:09.945] [I] Snipper: about to appear...
+[2021-07-02 23:06:09.945] [I] Snipper: prepare to show...
+[2021-07-02 23:06:09.953] [I] Snipper: shown
+[2021-07-02 23:06:09.953] [I] Snipper: focus in
+[2021-07-02 23:06:09.954] [I] Snipper: ready [0.084 s]
+[2021-07-02 23:06:13.356] [I] Screenshot destination: pin, 
+[2021-07-02 23:06:13.357] [I] Paste image: QPoint(283, 676)
+[2021-07-02 23:06:13.366] [I] Screenshot successfully saved: pin, 
+[2021-07-02 23:06:13.366] [I] Snipper: about to quit...
+[2021-07-02 23:06:13.432] [I] Snipper: focus out [3]
+[2021-07-02 23:06:13.433] [I] Snipper: hidden
+[2021-07-02 23:06:13.436] [I] Snipper: quit
+[2021-07-02 23:06:13.778] [I] Snipper: scene saved
+[2021-07-02 23:13:19.255] [I] Preloaded 20 files: 26 ms [every 30.0 m]
+[2021-07-02 23:43:19.252] [I] Preloaded 20 files: 5 ms [every 30.0 m]
+[2021-07-03 00:13:19.267] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-03 00:43:19.276] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2021-07-03 01:13:19.282] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2021-07-03 01:43:19.290] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2021-07-03 01:58:21.231] [I] System suspended
+[2021-07-04 17:54:25.113] [I] Preloaded 20 files: 16 ms [every 30.0 m]
+[2021-07-04 17:54:25.119] [W] Feed error: 下載更新來源失敗。網路錯誤：3
+[2021-07-04 17:54:25.122] [W] Feed error: 下載更新來源失敗。網路錯誤：3
+[2021-07-04 17:54:25.123] [E] 下載更新來源失敗。網路錯誤：3
+[2021-07-04 17:54:26.153] [I] System resumes
+[2021-07-04 17:54:26.167] [I] Preloaded 20 files: 16 ms
+[2021-07-04 18:24:30.572] [I] Preloaded 20 files: 5465 ms [every 30.0 m]
+[2021-07-04 18:47:00.594] [I] Preloaded 20 files: 15 ms [every 22.5 m]
+[2021-07-04 19:15:08.620] [I] Preloaded 20 files: 28 ms [every 28.1 m]
+[2021-07-04 19:45:08.628] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2021-07-04 20:15:08.654] [I] Preloaded 20 files: 26 ms [every 30.0 m]
+[2021-07-04 20:45:08.673] [I] Preloaded 20 files: 14 ms [every 30.0 m]
+[2021-07-04 21:15:08.693] [I] Preloaded 20 files: 29 ms [every 30.0 m]
+[2021-07-04 21:45:08.709] [I] Preloaded 20 files: 28 ms [every 30.0 m]
+[2021-07-04 22:15:08.729] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2021-07-04 22:45:08.731] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-04 23:15:08.735] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-04 23:45:08.759] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 00:15:08.756] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 00:45:08.759] [I] Preloaded 20 files: 5 ms [every 30.0 m]
+[2021-07-05 01:15:08.781] [I] Preloaded 20 files: 8 ms [every 30.0 m]
+[2021-07-05 01:45:08.791] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2021-07-05 02:08:20.919] [I] System suspended
+[2021-07-05 07:49:06.024] [I] Preloaded 20 files: 15 ms [every 30.0 m]
+[2021-07-05 07:49:06.824] [I] System resumes
+[2021-07-05 07:49:06.836] [I] Preloaded 20 files: 16 ms
+[2021-07-05 08:19:06.028] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 08:49:06.036] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 09:19:06.039] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 09:49:06.042] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 10:19:06.041] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 10:49:06.037] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 11:19:06.044] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 11:52:12.547] [I] Preloaded 20 files: 186495 ms [every 30.0 m]
+[2021-07-05 12:14:42.545] [I] Preloaded 20 files: 0 ms [every 22.5 m]
+[2021-07-05 12:42:50.545] [I] Preloaded 20 files: 0 ms [every 28.1 m]
+[2021-07-05 13:12:50.550] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 13:42:50.554] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 14:12:50.560] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 14:42:50.569] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 15:12:50.560] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 15:42:50.568] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 16:12:50.569] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 16:42:50.559] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 17:12:53.858] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 17:42:53.863] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 17:54:29.068] [I] Silent feed checking finished
+[2021-07-05 17:54:29.068] [I] No available update
+[2021-07-05 18:12:53.856] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 18:42:53.857] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 19:12:53.853] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 19:42:53.856] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 20:12:53.878] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 20:42:53.892] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 21:12:53.909] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 21:42:53.901] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 22:12:53.909] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 22:42:53.911] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-05 23:12:53.907] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2021-07-05 23:42:53.925] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-06 00:12:53.932] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-06 00:42:53.941] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-06 01:12:53.933] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-06 01:42:53.932] [I] Preloaded 20 files: 7 ms [every 30.0 m]
+[2021-07-06 02:12:53.952] [I] Preloaded 20 files: 0 ms [every 30.0 m]
+[2021-07-06 02:23:58.179] [I] System suspended
+[2021-07-06 20:31:43.037] [W] Feed error: 下載更新來源失敗。網路錯誤：3
+[2021-07-06 20:31:43.039] [W] Feed error: 下載更新來源失敗。網路錯誤：3
+[2021-07-06 20:31:43.041] [E] 下載更新來源失敗。網路錯誤：3
